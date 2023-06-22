@@ -1,3 +1,8 @@
+---
+title: Home
+layout: home
+---
+
 # Table of contents
 
 Email: [support@vrcave.ca](mailto:support@vrcave.ca)
@@ -47,3 +52,5 @@ Email: [support@vrcave.ca](mailto:support@vrcave.ca)
   - [Hospital of Horror](hoh.md)
   - [Pirates Plague](pirates_plague.md)
   - [Runaway Train](runaway_train.md)
+
+----
