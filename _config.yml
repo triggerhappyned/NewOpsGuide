@@ -1,12 +1,16 @@
 title: vrCAVE Operation Guide
 description: vrCAVE setup and operation documentation
 theme: just-the-docs
+baseurl: ""
 
 plugins:
   - jekyll-default-layout
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
   
 url: https://triggerhappyned.github.io/NewOpsGuide
 
 aux_links:
-  Template Repository: https://github.com/triggerhappyned/NewOpsGuide
-
+    Template Repository: https://github.com/triggerhappyned/NewOpsGuide
+relative_links:
+  collections: true

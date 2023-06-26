@@ -1,3 +1,11 @@
+---
+layout: default
+title: Depths of Osiris
+parent: 
+nav_order: 3
+has_children: false
+---
+
 # Depths of Osiris
 
 ## Narrative

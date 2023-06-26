@@ -1,3 +1,11 @@
+---
+layout: default
+title: vrCAVE Lite setup
+parent: 
+nav_order: 2
+has_children: true
+---
+
 # vrCAVE Lite
 We offer a *"Lite"* version of our software which has been specially redesigned for an optimal experience on the Oculus Quest headset.
 

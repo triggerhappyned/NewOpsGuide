@@ -7,3 +7,7 @@ gem "just-the-docs", "0.5.3" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 gem "jekyll-default-layout"
+
+gem "jekyll-relative-links"
+
+gem "jekyll-optional-front-matter"
