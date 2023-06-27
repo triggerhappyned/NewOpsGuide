@@ -6,6 +6,15 @@ nav_order: 2
 has_children: true
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
 # vrCAVE Lite
 We offer a *"Lite"* version of our software which has been specially redesigned for an optimal experience on the Oculus Quest headset.
 
