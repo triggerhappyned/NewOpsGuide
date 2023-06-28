@@ -1,3 +1,10 @@
+---
+layout: default
+title: Setting Up a Second Room
+parent: PCVR Setup
+nav_order: 7
+has_children: false
+---
 # Setting Up a Second VR Escape Room
 
 1. It is possible to have more than one VR escape room setup, but it does require some setup that is not a part of establishing your first room. 

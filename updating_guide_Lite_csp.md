@@ -1,3 +1,11 @@
+---
+layout: default
+title: Updating Guide Standalone
+parent: 
+nav_order: 2
+has_children: false
+---
+
 # Updating Guide
 
 *(Assumes a full install and successful operation of existing vrCAVE Library product)*

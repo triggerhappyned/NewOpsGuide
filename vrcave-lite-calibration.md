@@ -1,3 +1,10 @@
+---
+layout: default
+title: vrCAVE Standalone Calibration
+parent: Meta Quest 2 Standalone Setup
+nav_order: 2
+has_children: false
+---
 # vrCAVE Lite Calibration
 
 

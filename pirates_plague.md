@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pirate's Plague
+parent: Operations Guides
+nav_order: 8
+has_children: false
+---
 # Pirates Plague
 
 ## Narrative

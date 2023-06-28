@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dragon Tower
+parent: Operations Guides
+nav_order: 3
+has_children: false
+---
 # Dragon Tower
 
 ## Narrative

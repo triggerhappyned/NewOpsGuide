@@ -1,3 +1,10 @@
+---
+layout: default
+title: Creating Campaigns
+parent: Marketing
+nav_order: 3
+has_children: false
+---
 # vrCAVE Marketing: Creating Campaigns
 
 Using your audience and platforms to create effective marketing campaigns
@@ -10,6 +17,15 @@ Here, we'll be talking about using an understanding of your customer to execute 
 
 We'll also talk about some common offers that successful location-based VR businesses use to keep their audience coming in and coming back.
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+<!---
 - In-Person: Tips for your Physical Location
 - Common Offers
 - Search Engine Optimization
@@ -21,7 +37,7 @@ We'll also talk about some common offers that successful location-based VR busin
 - Mailing Lists
 - Improving Your Results: A/B Testing
 - What Not To Do
-
+--->
 ## In-Person: Tips for your Physical Location
 
 Before we even get to developing content and messaging for actual marketing campaigns, it's worth taking some time to think about how VR is represented in your physical location. After all, it's photos and videos from here that you'll use in your campaigns, and it's in-person conversations you have and behaviors you observe in your customers that will ultimately drive your results.

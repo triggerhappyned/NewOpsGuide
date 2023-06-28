@@ -1,3 +1,10 @@
+---
+layout: default
+title: Release Notes PCVR
+parent: 
+nav_order: 5
+has_children: false
+---
 # Release Notes
 
 ## Version 1.8.5

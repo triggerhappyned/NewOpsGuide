@@ -1,10 +1,22 @@
+---
+layout: default
+title: Customers
+parent: Marketing
+nav_order: 2
+has_children: false
+---
 # vrCAVE Marketing Guide: Who are Your Customers?
 
-##
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
-
-## Contents
-<!---1. [Download VRCaveLite ](QuestSetupSupportGuide#download-vrcavelite)	--->
+<!---
 
 **Contents**
 
@@ -29,7 +41,7 @@
 **What if You're a New Business?**
 
 **Takeaways**
-
+1. [Download VRCaveLite ](QuestSetupSupportGuide#download-vrcavelite)	--->
 ## Customers
 
 Your customers will love VR escape rooms the same way they'll love your laser tag, physical escape rooms, or other existing attractions. As with marketing anything, you have to make it easy for them to try it — and you may find that with VR comes the additional challenge that some people are hesitant because they've never tried any kind of VR before.

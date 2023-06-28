@@ -1,3 +1,10 @@
+---
+layout: default
+title: PCVR Setup
+parent: 
+nav_order: 10
+has_children: true
+---
 # Initial Setup
 
 *(Assumes a space of 4.5Mx5.5M (approx. 15’x18’) or greater.)*

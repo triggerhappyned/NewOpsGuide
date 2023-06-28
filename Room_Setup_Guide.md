@@ -1,3 +1,10 @@
+---
+layout: default
+title: SteamVR Room Setup
+parent: PCVR Setup
+nav_order: 1
+has_children: false
+---
 # Room Setup
 
 
@@ -9,11 +16,11 @@
 
 - Marking the corners of your space will help during the room setup. 
 
-![Room Size](media/RoomSetup/RoomSize.png​)
+![Room Size](media/RoomSetup/RoomSize.png)
 
 - Place the backpacks in the center and turn them on (this is a good practice to do when starting them up before play)
 
-![backpacks on ground](media/RoomSetup/BackpacksonGround.png​)
+![backpacks on ground](media/RoomSetup/BackpacksonGround.png)
 	
 - Start the room setup and follow the steps, when it asks for pointing at the monitor, point the controller at one of the 5.5m walls. (in the picture above, it would be the direction the red headset is pointed.)
 

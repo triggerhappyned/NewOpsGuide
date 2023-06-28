@@ -1,3 +1,10 @@
+---
+layout: default
+title: Inside-out Tracking Best Practices 
+parent:
+nav_order: 12
+has_children: false
+---
 # vrCAVE Lite Tracking Best Practices
 
 

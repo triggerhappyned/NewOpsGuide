@@ -1,3 +1,10 @@
+---
+layout: default
+title: Runaway Train
+parent: Operations Guides
+nav_order: 9
+has_children: false
+---
 # Runaway Train
 
 ## Narrative

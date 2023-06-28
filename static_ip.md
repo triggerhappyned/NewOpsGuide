@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Establishing Static IP(Recommended for Mumble Server)
+parent: PCVR Setup
+nav_order: 4
+has_children: false
+---
 ## Finding and Fixing the VR Backpack and Server Computer IP Addresses
 
 Before you can remotely connect to a VR Backpack, you need to know its IP address on the network, and make sure it doesn't change:

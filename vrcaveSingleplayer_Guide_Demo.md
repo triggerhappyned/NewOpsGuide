@@ -1,3 +1,10 @@
+---
+layout: default
+title: SinglePlayer Setup (Only For Demoing)
+parent: PCVR Setup
+nav_order: 5
+has_children: false
+---
 # vrCAVE Singleplay Setup
 
 

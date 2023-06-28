@@ -1,3 +1,10 @@
+---
+layout: default
+title: Manor of Escape
+parent: Operations Guides
+nav_order: 7
+has_children: false
+---
 # Manor of Escape
 
 ## Narrative

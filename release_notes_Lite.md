@@ -1,3 +1,10 @@
+---
+layout: default
+title: Release Notes Standalone
+parent: 
+nav_order: 4
+has_children: false
+---
 # Release Notes Lite
 
 ## Version 1.8.7-Experimental Beta (To be released soon)

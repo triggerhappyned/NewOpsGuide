@@ -1,3 +1,10 @@
+---
+layout: default
+title: Laser Bots
+parent: Operations Guides
+nav_order: 5
+has_children: false
+---
 # Laser Bots
 
 ## Narrative

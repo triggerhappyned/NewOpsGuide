@@ -1,5 +1,11 @@
+---
+layout: default
+title: Preparing for Sideloading
+parent: Meta Quest 2 Standalone Setup
+nav_order: 1
+has_children: false
+---
 # Preparing for Sideloading 
-
 
 Before installing the vrCAVE Lite demo, your Oculus Quest needs to be set up for sideloading. Follow the steps below to prepare for sideloading.
 

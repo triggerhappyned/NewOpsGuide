@@ -1,3 +1,10 @@
+---
+layout: default
+title: Remotely Control VR Backpacks (Optional)
+parent: PCVR Setup
+nav_order: 2
+has_children: false
+---
 # Remote Control for VR Backpacks
 
 **Note:** *Setting up remote control of the VR Backpacks is **optional**, but highly recommended because it makes troubleshooting and configuring the backpacks much more efficient.*

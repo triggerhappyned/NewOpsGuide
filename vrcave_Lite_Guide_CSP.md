@@ -1,8 +1,8 @@
 ---
 layout: default
-title: vrCAVE Lite setup
+title: Meta Quest 2 Standalone Setup
 parent: 
-nav_order: 2
+nav_order: 6
 has_children: true
 ---
 

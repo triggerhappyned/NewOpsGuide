@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Depths of Osiris
-parent: 
-nav_order: 3
+parent: Operations Guides
+nav_order: 4
 has_children: false
 ---
 

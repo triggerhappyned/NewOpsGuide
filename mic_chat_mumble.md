@@ -1,3 +1,10 @@
+---
+layout: default
+title: Mic Chat Mumble Setup (Optional)
+parent: PCVR Setup
+nav_order: 3
+has_children: false
+---
 # Mic Chat Setup
 **Before setting up the server, The server computer should have a static IP. [You can find out how to do that HERE](static_ip.md)**
 ## Server Configuration

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Teleport Mode Multiplayer Setup
+parent: PCVR Setup
+nav_order: 6
+has_children: false
+---
 # vrCAVE Library BoothMode 
 
 First, Download the latest version of the vrcave library in the link below

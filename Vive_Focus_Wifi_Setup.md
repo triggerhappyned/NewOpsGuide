@@ -1,3 +1,10 @@
+---
+layout: default
+title: vrCAVE Standalone Calibration
+parent: Vive Focus 3 Standalone Setup
+nav_order: 1
+has_children: false
+---
 # Initial Setup
 
 *This Guide is still a work in progress.*

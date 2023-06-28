@@ -1,3 +1,10 @@
+---
+layout: default
+title: Platforms and Strategies
+parent: Marketing
+nav_order: 1
+has_children: false
+---
 # vrCAVE Marketing Guide: Platforms and Strategies
 
 ## Summary
@@ -6,6 +13,16 @@ In the Customers document, we discussed how to understand the audience you're tr
 
 We'll cover:
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+<!--- 
 **Summary**
 
 **Paid Media**
@@ -63,7 +80,7 @@ We'll cover:
 **Reviews/Testimonials**
 
 **Organic Social Media**
-
+--->
 ## Paid Media
 
 Paid media refers to coverage or content you have to pay for. That means there's a hard monetary cost, of course, but what you get in return is the guarantee of exposure.

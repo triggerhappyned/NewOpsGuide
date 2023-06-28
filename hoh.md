@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hospital of Horror
+parent: Operations Guides
+nav_order: 1
+has_children: false
+---
 # Hospital of Horror
 
 ## Server computer start up and shut down

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Vive Focus 3 Standalone Setup
+parent: 
+nav_order: 8
+has_children: true
+---
 # vrCAVE Lite
 We offer a *"Lite"* version of our software which has been specially redesigned for an optimal experience on the Vive Focus 3 headset.
 

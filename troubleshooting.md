@@ -1,3 +1,10 @@
+---
+layout: default
+title: Troubleshooting
+parent: PCVR Setup
+nav_order: 8
+has_children: false
+---
 # Troubleshooting
 
 While issues cropping up are rare, here is a list of some observed issues and their solution.  After checking for batteries and for loose cables, the most issues can be solved by power-cycling (i.e. turning the VR backpack off and turning it back on).

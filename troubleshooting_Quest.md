@@ -1,3 +1,10 @@
+---
+layout: default
+title: Troubleshooting Quest
+parent: Meta Quest 2 Standalone Setup
+nav_order: 3
+has_children: false
+---
 # Troubleshooting Quest
 
 Unfortunately, there is no way to remotely connect to a quest headset for troubleshooting, If an issue comes up with a headset, the player will need to take off the headset and give it to the VR operator to fix the problem.

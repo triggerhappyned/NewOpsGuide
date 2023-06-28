@@ -1,3 +1,11 @@
+---
+layout: default
+title: Updating Guide PCVR
+parent: 
+nav_order: 3
+has_children: false
+---
+
 # Updating Guide
 
 *(Assumes a full install and successful operation of existing vrCAVE Library product)*
