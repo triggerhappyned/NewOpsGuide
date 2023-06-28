@@ -1,5 +1,5 @@
 # Quest Setup One-on-One Call
-** Internal VRCAVE Document, do not send to customers **
+** Internal VRCAVE Document, do not send to partner**
 
 ### Identify where they are in the setup
 <!--
