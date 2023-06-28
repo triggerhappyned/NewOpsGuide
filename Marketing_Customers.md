@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customers
+title: Who are Your Customers
 parent: Marketing
 nav_order: 2
 has_children: false
