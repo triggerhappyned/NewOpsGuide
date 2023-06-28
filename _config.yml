@@ -10,7 +10,6 @@ plugins:
   
 url: https://triggerhappyned.github.io/NewOpsGuide
 
-aux_links:
-    Template Repository: https://github.com/triggerhappyned/NewOpsGuide
+
 relative_links:
   collections: true
