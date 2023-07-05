@@ -124,13 +124,15 @@ Once Dave's decided he should do something, he'll start researching his options.
 
 In the final stage, Dave's got a couple of options in mind, and he's trying to finalize the decision. He'll be weighing specifics from each business against the others. He may have three VR places in mind and is trying to figure out which game specifically, or he might be looking at your VR offering versus a paintball game versus a night at the movie theater. He may be looking at multiple activities (it's not unusual for friends to meet up for dinner before or after some other social activity), where proximity might also be a bonus. He'll probably be talking to his friends to see what they'd want to do, and we're looking at a group decision. Once the decision is made, they'll make the booking and Dave will either become your customer or not.
 
-**Funnel Progression**![](RackMultipart20230609-1-huz8cm_html_5eeb04abbb3fd01.png)
+**Funnel Progression** 
 
 In some businesses, it's not uncommon to get contact information for people in the early stages of the funnel, allowing you to send them information to help move them through it. With something like location-based entertainment, you probably won't have that, so you won't be able to know accurately how many people are in each stage.
 
 That said, you can assume that there are fewer people in each stage as they progress, because some will always just choose something else. And after somebody does become a customer and you do have them in your system, you can start to operate by understanding that they return to Awareness at some point, and can go through the funnel again — with the advantage that they're less likely to fall out of each stage because they've already had a good time.
 
 All this has implications for what messaging you will come up with according to where people are and what they're looking to find out. We get more into that in our How To Win Your Customers document. For now, just be aware that people will respond differently according to how far they've gone along through the funnel.
+
+![](media/marketing/funnel.png)
 
 ## Customer Personas
 

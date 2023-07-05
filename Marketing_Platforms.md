@@ -93,6 +93,7 @@ The other big distinction is between digital and traditional advertising. The bi
 
 But there are still ways to rate the effectiveness of traditional advertising, and there are often many opportunities you will want to consider.
 
+
 ## Google Ads
 
 Google offers a lot of different advertising options. To keep things simple, we'll split them into Search and Display.
@@ -143,7 +144,7 @@ These steps are also for the GA4 version of Google Analytics. If you have been u
 
 Then inside Google Ads, you can go to Tools and Settings -\> Measurement -\> Conversions, click New, and you can import your Google Analytics conversion here as the fourth option:
 
-![](RackMultipart20230609-1-n9orel_html_4af035c39acbf018.png)
+![](media/marketing/GoogleAdsSite.png)
 
 As you set up your ads, you'll now be able to select these conversion events you've set up as your goals.
 

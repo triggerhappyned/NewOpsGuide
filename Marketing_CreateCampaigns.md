@@ -289,7 +289,7 @@ Google has extremely strict character limits on headlines and descriptions, the 
 
 They do, however, allow up to 15 headline options and 4 descriptions. You should write something for each of these, because Google will then automatically choose what it thinks will be the best option for any individual query.
 
-![](RackMultipart20230609-1-112fp8_html_d6f92a568e3cd6d6.png)
+![](media/marketing/image1.png)
 
 With our ad setup here for instance, you can see we've filled the ad strength ring up to Excellent. We did this by hitting all the check marks to the right of it, and you can see a preview of the ad under that.
 
@@ -344,7 +344,7 @@ The major decisions here are the conversion events, the budget, and the audience
 
 Here's what the interface looks like for standalone ads:
 
-![](RackMultipart20230609-1-112fp8_html_202744ebc2a362ea.png)
+![](media/marketing/standalonead.png)
 
 This is one of our ads, so the text is all focused on business owners. There are several content bits you'll want to select and fill in for Facebook ads.
 
@@ -368,7 +368,7 @@ This goes under the headline and should relate to the page that you're sending p
 
 You can check out previews of your ad next to these options:
 
-![](RackMultipart20230609-1-112fp8_html_f613f3a278479ec5.png)
+![](media/marketing/adoptions.png)
 
 To help you get started, here is content for two sample ads you could try running. Obviously, feel free to change them as you see fit.
 
@@ -424,7 +424,7 @@ Book the spookiest interactive experience in [Your Town] today.
 
 With Facebook, if a page is running ads, you can actually see them. If you're on a competitor's Facebook page, scroll down to Page Transparency on the right side. You may need to find this under the About tab if you don't see it there.
 
-![](RackMultipart20230609-1-112fp8_html_397d3d2883af2e25.png)
+![](media/marketing/competitorads.png)
 
 Click See all. Here is an example of what you'll see. If they're running ads, it will say so, and you can click "Go to Ad Library".
 
