@@ -1,3 +1,21 @@
+---
+layout: default
+title: Meta Quest 2 Standalone Setup
+parent: 
+nav_order: 6
+has_children: true
+---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+
 # vrCAVE Lite
 We offer a *"Lite"* version of our software which has been specially redesigned for an optimal experience on the Oculus Quest headset.
 
