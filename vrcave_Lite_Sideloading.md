@@ -9,6 +9,9 @@ has_children: false
 
 Before installing the vrCAVE Lite demo, your Oculus Quest needs to be set up for sideloading. Follow the steps below to prepare for sideloading.
 
+You can also follow this video tutorial
+
+[![vrCAVE Sideloading Video](http://img.youtube.com/vi/4JODZh5soIQ/0.jpg)](http://www.youtube.com/watch?v=4JODZh5soIQ)
 
 ## Create a Meta Account
 
