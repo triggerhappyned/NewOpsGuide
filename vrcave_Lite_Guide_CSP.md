@@ -1,20 +1,3 @@
----
-layout: default
-title: Meta Quest 2 Standalone Setup
-parent: 
-nav_order: 6
-has_children: true
----
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 # vrCAVE Lite
 We offer a *"Lite"* version of our software which has been specially redesigned for an optimal experience on the Oculus Quest headset.
 
@@ -161,19 +144,27 @@ In the **Unknown Sources** category, click on **VRcaveLibrary** to launch it.
 	
 - Do this for each of the Quests and then return them to the VRcaveLibrary
 
-- On the server computer, you should start to see players begin to connect on the top righthand corner of the UI, from there you can name the headsets and change the player color. 
+- On the server computer, make sure there is only one network connected and enabled. 
+
+	![](media/vrcaveLite/networkConnections.png)
+	
+- You can also check your network environment by opening a command window and typing the command *ipconfig*. you should only see one category filled with information like the image below. 
+
+	![](media/ipconfig.png)
+
+- you should start to see players begin to connect on the top righthand corner of the UI, from there you can name the headsets and change the player color. 
 
 ## Other Settings 
 
 - To help get ready for sessions and to easily verify calibration, it is best that you set the sleep timer on the headsets to something above 2 minutes. Otherwise as soon as you take off the headset, it will immediatly go to sleep and will no longer show up on the server. 
 	![](media/vrcaveLite/OculusSettings.jpg)
-- In the Quest, go to the settings menu and scroll down to the bottom of the devices options.
+- In the Quest, go to the settings menu and select **System**, then scroll down to **Power** 
 
-	![](media/vrcaveLite/OculusPowerSettings.jpg)
+	![](media/vrcaveLite/OculusSettingsSystem.png)
 	
 - in that menu you will find a dropdown for *Auto Sleep Headset* Change that to 15 minutes. this will give the headset plenty of time to sit while not being too long as to drain the battery if accidentally left on. 
 
-	![](media/vrcaveLite/OculusSleepSettings.jpg)
+	![](media/vrcaveLite/OculusPowerSetting.png)
 
 
 ## In Game Calibration

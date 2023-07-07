@@ -1,10 +1,3 @@
----
-layout: default
-title: Inside-out Tracking Best Practices 
-parent:
-nav_order: 12
-has_children: false
----
 # vrCAVE Lite Tracking Best Practices
 
 
@@ -30,7 +23,8 @@ We have noticed that if the room has big visual changes in it since you created 
 
 ### Headsets Going to Sleep
 
-![](media/vrcaveLite/OculusSleepSettings.jpg)
+![](media/vrcaveLite/OculusPowerSetting.png)
+
 
 When a headset goes to sleep, they often require you to "Confirm the Guardian Bounds" and this can sometimes cause the calibration to get lost. 
 
