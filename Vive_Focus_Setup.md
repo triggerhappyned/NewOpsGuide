@@ -5,6 +5,7 @@ parent:
 nav_order: 8
 has_children: true
 ---
+
 # vrCAVE Lite
 We offer a *"Lite"* version of our software which has been specially redesigned for an optimal experience on the Vive Focus 3 headset.
 
@@ -34,27 +35,15 @@ Make sure your headset’s boundary is set up so you can walk freely around the 
 A brightly lit room is important for the Inside-Out tracking. Inside-Out also requires some room features to help with its visual insight tracking, posters or banners should be enough for the walls, the floor may be a bit more complicated. An example of a good tracking floor is a carpet with a non-symetrical design or carpet tiles of different colors. If that isn't possible, you can also mark the floor with some painters tape or duct tape. as long as the markings are non-symetrical and visible when viewed in the headest passthough mode shouldn't have any troubles tracking.
 
 (These suggestions are subject to change as Inside-Out Tracking continues to develop.)
-<!--
-## Before Setup
 
-- [Watch the Technical overview video](https://youtu.be/sjQW4b5ruuU) 
-- Measure out the 5.5m by 4.5m playspace and mark the corners. Number the corners from 1-4 so that the distance between 1 and 2 is 5.5m, going clockwise. the calibration section of this guide has a graphic to explain.
-- You no longer will be required to have a facebook account linked to your oculus (or meta) account, Simply make a Meta account to be used for all headsets.
+## Location Based Entertainment (LBE) mode
 
+We highly recommend contacting HTC to get a Location Based Entertainment (LBE) License. The license gives operators features that are designed for shared space multiplayer, mainly the ability to create a playspace map that will be shared with all the headsets, This will automatically have the headsets be calibrated with each other. 
 
-## Preparation for Sideloading
-Before installing vrCAVE Lite, your Oculus Quest needs to be set up for sideloading. Follow the steps below to prepare for sideloading (links provided are to a YouTube help video which may be useful).
+HTC will send you documentation to get your headsets enrolled and how to create a map for your arena. When creating your Batch Config for headset groups, you have to set your tracking mode to **LBE Mode** This will allow you to assign a shared map for the headsets in the group, then we recommend turing off **Boundary related messages**. This will removed the warning when players venture outside the defined play area, normally this would be okay, but it also gives the player the option to redraw the playarea, and that will overwite the current map, we do not want this. 
 
-#### *PLEASE NOTE*
-You **DO NOT** need to follow any further steps from the video tutorial. You **DO NOT** need to Install SideQuest.
-
-1. ##### [Create Developer Account](https://youtu.be/RoIXxIfRNTw?t=172)
-2. ##### [Install ADB Drivers](https://youtu.be/RoIXxIfRNTw?t=200)
-3. ##### [Enable Developer Mode in Oculus Mobile App](https://youtu.be/RoIXxIfRNTw?t=252)
-4. ##### [Connect Oculus Quest to Computer](https://youtu.be/RoIXxIfRNTw?t=277)
-
--->
-
+![](media/vrcaveLite/LBESettings.png)
+ 
 ## Downloading the Lastest Version 
 
 1. Go to the [Partner Success Portal](https://partnersuccess.vrcave.ca/) 
@@ -128,21 +117,10 @@ In VR, from the main menu bar at the bottom of the screen, click on the **Librar
 - On the server computer, you should start to see players begin to connect on the top righthand corner of the UI, from there you can name the headsets and change the player color. 
 
 - If the players do not show up, check to see if your server computer has any firewalls that might be blocking vrcavelibrary from accessing the network. For Windows Defender Firewall, you can allow vrcave through by searching "Allow an App through Windows Firewall" in a windows search bar and adding **vrcaveLibrary.exe** to the allowed apps. **vrcaveLibrary.exe** can be found in *vrcaveLite/WindowsNoEditor/* folder. Any other firewalls should just be disabled as they will usually try to block vrcave even after permissions are granted. 
-<!--
-## Other Settings 
 
-- To help get ready for sessions and to easily verify calibration, it is best that you set the sleep timer on the headsets to something above 2 minutes. Otherwise as soon as you take off the headset, it will immediatly go to sleep and will no longer show up on the server. 
-	![](media/vrcaveLite/OculusSettings.jpg)
-- In the Quest, go to the settings menu and scroll down to the bottom of the devices options.
-
-	![](media/vrcaveLite/OculusPowerSettings.jpg)
-	
-- in that menu you will find a dropdown for *Auto Sleep Headset* Change that to 15 minutes. this will give the headset plenty of time to sit while not being too long as to drain the battery if accidentally left on. 
-
-	![](media/vrcaveLite/OculusSleepSettings.jpg)
-
--->
 ## In Game Calibration
+
+**If you have an LBE License with HTC, this step is not necessary.**
 
 - To make sure that each player is where they are supposed to be in game, you will need to perform a calibration on each headset, you can start the calibration from the server by clicking on the gear next to the player name and then clicking the crosshairs that appear when the gear is clicked. 
 
@@ -159,6 +137,7 @@ In VR, from the main menu bar at the bottom of the screen, click on the **Librar
 	
 	
 - When you are done, point the laser pointer on the right hand at the Confirm Calibration button, the play area should visibly shift into position, you can test the calibration by performing a "high five" with another player who is calibrated in the game, you will know the calibration worked if the controllers clack against each other when your hands are close to each other. If the hands connect in game but miss In real life (or using the professional VR Developers term: "Meat Space") then the calibration was not successful and one or both of the players needs to calibrate again. 
+
 
 ## Optional Features
 
